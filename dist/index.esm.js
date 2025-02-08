@@ -769,7 +769,7 @@ function batchSwaps(assetArray, swaps) {
 }
 
 const balancerVaultMap = {
-	106: '0xA06e92c4A9D5Fe540666e1BFf10982d496D5A70D',
+	2741: '0x48cD08ad2065e0cD2dcD56434e393D55A59a4F64',
 };
 
 /*
